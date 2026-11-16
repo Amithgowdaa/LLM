@@ -3,6 +3,8 @@
 A GPT written from scratch, one milestone at a time. The files contain stubs
 and questions; the tests tell you when a milestone is done.
 
+Theory for every milestone is in [NOTES.md](NOTES.md). Read the section before you start the milestone.
+
 ## Rules
 
 1. Answer the questions in each docstring on paper before you write the code.
